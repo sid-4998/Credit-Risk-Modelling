@@ -27,7 +27,7 @@ The model was designed to accurately predict these categories, and it will be im
 
 ## Codes
 - The Python Pipeline used for Data Cleaning and Preprocessing, Feature Engineering and Selection, Model training and Evaluation as well as Hyperparameter Tuning to find best ML Algorithm can be found [here](https://github.com/sid-4998/Credit-Risk-Modelling/blob/main/credit_risk_modeling.ipynb).
-- The Python Pipeline used to classify the prospects into 4 different categories of risk using **XGBoost Classfier** can be found [here](https://github.com/sid-4998/Credit-Risk-Modeling/blob/main/notebooks/credit_risk_pipeline.ipynb).
+- The Python Pipeline used to classify the prospects into 4 different categories of risk using **XGBoost Classfier** can be found [here](https://github.com/sid-4998/Credit-Risk-Modelling/blob/main/credit_risk_pipeline.ipynb).
 - The Python Pipeline used for final evaluation of model on unseen dataset can be found [here](https://github.com/sid-4998/Credit-Risk-Modeling/blob/main/notebooks/output_risk_pipeline.ipynb)
 
 
