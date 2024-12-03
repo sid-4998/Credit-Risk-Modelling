@@ -12,8 +12,7 @@ The primary data structure used for this analysis and modeling is the combinatio
 * [Internal Bank Data](https://github.com/nikitaprasad21/Credit-Risk-Modeling/blob/main/data/bank_data.xlsx): Customer account, payment history, and credit utilization, etc.
 * [External CIBIL Data](https://github.com/nikitaprasad21/Credit-Risk-Modeling/blob/main/data/cibil_data.xlsx): Historical credit scores and delinquency data, etc.
 
-**Note**: The dataset comprised 50,000+ records, divided into 79 columns, the feature-target description you can see [here](https://github.com/nikitaprasad21/Credit-Risk-Modeling/blob/main/data/Features_Target_Description.txt).
-
+**Note**: The dataset comprised 50,000+ records, divided into 79 columns, the feature-target description you can see [here](https://github.com/sid-4998/Credit-Risk-Modelling/blob/main/Features_Target_Description.txt)
 ## Executive Summary
 
 This project focused on categorizing credit card users into four risk segments to help the bank make better decisions around loans and credit limits. Customers were placed into one of four categories: P1 (low risk), P2 (medium risk), P3 (high risk), and P4 (severely high risk). These segments were used to assess how likely a customer is to default on their payments.
