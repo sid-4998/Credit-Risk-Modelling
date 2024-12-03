@@ -9,7 +9,7 @@ This project was conducted for a leading financial institution, the company has 
 
 The primary data structure used for this analysis and modeling is the combination of two major sources:
 
-* [Internal Bank Data](https://github.com/nikitaprasad21/Credit-Risk-Modeling/blob/main/data/bank_data.xlsx): Customer account, payment history, and credit utilization, etc.
+* [Internal Bank Data](https://github.com/sid-4998/Credit-Risk-Modelling/blob/main/bank_data.xlsx): Customer account, payment history, and credit utilization, etc.
 * [External CIBIL Data](https://github.com/nikitaprasad21/Credit-Risk-Modeling/blob/main/data/cibil_data.xlsx): Historical credit scores and delinquency data, etc.
 
 **Note**: The dataset comprised 50,000+ records, divided into 79 columns, the feature-target description you can see [here](https://github.com/sid-4998/Credit-Risk-Modelling/blob/main/Features_Target_Description.txt)
